@@ -1,8 +1,0 @@
-[
-  { "name": "Dell XPS 13", "price": 80, "total": 60, "rating": 90 },
-  { "name": "Dell XPS 13", "price": 60, "total": 40, "rating": 85 },
-  { "name": "Dell XPS 13", "price": 70, "total": 50, "rating": 88 },
-  { "name": "Dell XPS 13", "price": 80, "total": 70, "rating": 92 },
-  { "name": "Dell XPS 13", "price": 90, "total": 80, "rating": 95 },
-  { "name": "Dell XPS 13", "price": 85, "total": 75, "rating": 93 }
-]

@@ -18,7 +18,7 @@ const Banner = () => {
         </div>
       </div>
       <div className="relative -top-12 z-10 ">
-        <div className="w-3/5 mx-auto max-w-150  border  p-2 rounded-2xl">
+        <div className="w-4/5 mx-auto max-w-150  border  p-2 rounded-2xl">
           <img className="rounded-2xl" src={banner} alt="" />
         </div>
       </div>
