@@ -53,11 +53,11 @@ const Navbar = () => {
       <div className="navbar-end ">
         <CiShoppingCart
           onClick={handleCart}
-          className="mr-4 border rounded-full  text-2xl hover:bg-amber-200 transition cursor-pointer"
+          className="mr-4 border rounded-full  text-3xl hover:bg-green-400 transition cursor-pointer"
         />
         <CiHeart
           onClick={handleWishList}
-          className="mr-4 border rounded-full  text-2xl hover:bg-amber-200 transition cursor-pointer"
+          className="mr-4 border rounded-full  text-3xl hover:bg-green-400 transition cursor-pointer"
         />
       </div>
     </div>
