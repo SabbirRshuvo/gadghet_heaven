@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "product_title": "iPhone 13 Pro",
+    "product_image": "https://i.ibb.co.com/zsN8DL4/sophia-stark-2x-Pg-Fph-VZEE-unsplash-1.jpg",
+    "category": "smartphone",
+    "price": 1099.99,
+    "description": "The latest iPhone with advanced features and stunning design.",
+    "specification": [
+      "6.1-inch Super Retina XDR display",
+      "A15 Bionic chip",
+      "Triple 12MP camera system",
+      "Ceramic Shield front cover",
+      "5G capable"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "product_title": "MacBook Pro 14-inch",
+    "product_image": "https://i.ibb.co.com/Kzvvzyw/yuhaimedia-yk-I7-Be-SWg-Mo-unsplash.jpg",
+    "category": "laptop",
+    "price": 1999.99,
+    "description": "Powerful laptop for professionals with the new M1 Pro chip.",
+    "specification": [
+      "14.2-inch Liquid Retina XDR display",
+      "M1 Pro chip with 10-core CPU",
+      "16GB unified memory",
+      "Up to 21 hours battery life",
+      "Thunderbolt 4 ports"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": 3,
+    "product_title": "CMF Watch Pro",
+    "product_image": "https://i.ibb.co.com/2vpPyZX/lloyd-dirks-0vsk2-9dkqo-unsplash.jpg",
+    "category": "smart-watches",
+    "price": 299.99,
+    "description": "Advanced smartwatch with health monitoring features.",
+    "specification": [
+      "Built-in GPS",
+      "Heart rate monitoring",
+      "Sleep tracking",
+      "Water-resistant up to 50 meters",
+      "Bluetooth connectivity"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "product_title": "Dell XPS 15",
+    "product_image": "https://i.ibb.co.com/FzkR4vc/dell-y-Nv-Vn-Pcur-D8-unsplash.jpg",
+    "category": "laptop",
+    "price": 1599.99,
+    "description": "High-performance laptop with stunning InfinityEdge display.",
+    "specification": [
+      "15.6-inch 4K UHD InfinityEdge display",
+      "Intel Core i7-11800H",
+      "32GB DDR4 RAM",
+      "1TB SSD",
+      "NVIDIA GeForce RTX 3050 Ti"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "product_title": "Sony WH-1000XM4 Wireless Headphones",
+    "product_image": "https://i.ibb.co.com/CnqyhKT/jasper-garratt-Gki0houpc-Mk-unsplash.jpg",
+    "category": "accessories",
+    "price": 349.99,
+    "description": "Industry-leading noise-canceling headphones with premium sound quality.",
+    "specification": [
+      "Active noise cancellation",
+      "30-hour battery life",
+      "Touch sensor controls",
+      "Bluetooth connectivity",
+      "Voice assistant support"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": 6,
+    "product_title": "Google Pixel 6",
+    "product_image": "https://i.ibb.co.com/cCP9314/luca-m-S7-Aiexn-Fxc-unsplash.jpg",
+    "category": "smartphone",
+    "price": 799.99,
+    "description": "Flagship smartphone with exceptional camera capabilities.",
+    "specification": [
+      "6.4-inch FHD+ OLED display",
+      "Google Tensor chip",
+      "Dual 50MP + 12MP rear cameras",
+      "5G connectivity",
+      "Fast charging"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 7,
+    "product_title": "Apple AirPods Pro",
+    "product_image": "https://i.ibb.co.com/XDfBsjB/john-m-smit-Mc5-Ewl-PC3z-A-unsplash.jpg",
+    "category": "accessories",
+    "price": 249.99,
+    "description": "Premium wireless earbuds with active noise cancellation.",
+    "specification": [
+      "Active noise cancellation",
+      "Transparency mode",
+      "Adaptive EQ",
+      "Sweat and water resistance",
+      "Wireless charging case"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 8,
+    "product_title": "HP Spectre x360",
+    "product_image": "https://i.ibb.co.com/vQyj0Ty/desola-lanre-ologun-t-Wjzm-NXKup4-unsplash.jpg",
+    "category": "laptop",
+    "price": 1299.99,
+    "description": "Convertible laptop with powerful performance and sleek design.",
+    "specification": [
+      "13.3-inch 4K OLED touchscreen",
+      "Intel Core i7-1165G7",
+      "16GB RAM",
+      "512GB SSD",
+      "Intel Iris Xe graphics"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": 9,
+    "product_title": "Fitbit Versa 3",
+    "product_image": "https://i.ibb.co.com/BwKVMPP/emiliano-cicero-OKZqs-Vseko-unsplash.jpg",
+    "category": "smart-watches",
+    "price": 229.99,
+    "description": "Fitness smartwatch with built-in GPS and heart rate monitoring.",
+    "specification": [
+      "Built-in GPS",
+      "Active Zone Minutes",
+      "Sleep Score",
+      "Water resistant up to 50 meters",
+      "6+ day battery life"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": 10,
+    "product_title": "Logitech MX Master 3 Wireless Mouse",
+    "product_image": "https://i.ibb.co.com/2ZcN7Zf/ryan-putra-j4-Pql-NVZ4-Bc-unsplash.jpg",
+    "category": "accessories",
+    "price": 99.99,
+    "description": "Advanced ergonomic mouse with customizable buttons and precision scroll wheel.",
+    "specification": [
+      "MagSpeed electromagnetic scrolling",
+      "Advanced 4000 DPI sensor",
+      "Customizable buttons",
+      "USB-C rechargeable",
+      "Flow cross-computer control"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": 11,
+    "product_title": "OnePlus 9 Pro",
+    "product_image": "https://i.ibb.co.com/tcnc9gk/erik-skof-xg-Im-Lxtm-RM4-unsplash.jpg",
+    "category": "smartphone",
+    "price": 899.99,
+    "description": "High-performance smartphone with Hasselblad camera integration.",
+    "specification": [
+      "6.7-inch Fluid AMOLED display",
+      "Qualcomm Snapdragon 888",
+      "Quad camera system with 48MP main sensor",
+      "65W fast charging",
+      "5G connectivity"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 12,
+    "product_title": "Bose QuietComfort 45 Wireless Headphones",
+    "product_image": "https://i.ibb.co.com/PjyHVcR/QC45-Triple-Black-Case-Cables-RGB.webp",
+    "category": "accessories",
+    "price": 329.99,
+    "description": "Premium noise-canceling headphones with balanced audio performance.",
+    "specification": [
+      "Acoustic Noise Cancelling technology",
+      "Up to 24 hours battery life",
+      "Bluetooth and NFC pairing",
+      "Voice assistant support",
+      "Comfortable over-ear design"
+    ],
+    "availability": true,
+    "rating": 4.8
+  }
+]
